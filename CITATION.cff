@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use the concept or this methodological resource, please cite the primary publication and, when relevant, the repository version."
+title: "Narrative regime: a living methodological resource"
+version: "1.0"
+date-released: 2026-10-02
+authors:
+  - family-names: "Lega"
+    given-names: "Jean-Christophe"
+preferred-citation:
+  type: article
+  title: "The erosion of proof in paradigm transitions: the rise of narrative rationality in health technology assessment"
+  authors:
+    - family-names: "Lega"
+      given-names: "Jean-Christophe"
+    - family-names: "Gougeon"
+      given-names: "Arthur"
+    - family-names: "Michal"
+      given-names: "Claudina"
+    - family-names: "Provencher"
+      given-names: "Steeve"
+    - family-names: "Naudet"
+      given-names: "Florian"
+    - family-names: "Falissard"
+      given-names: "Bruno"
+    - family-names: "Chevret"
+      given-names: "Sylvie"
+    - family-names: "Boussageon"
+      given-names: "Remy"
+  journal: "Journal of Clinical Epidemiology"
+  volume: "199"
+  start: "112458"
+  year: 2026
+  doi: "10.1016/j.jclinepi.2026.112458"
